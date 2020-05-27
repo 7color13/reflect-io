@@ -153,7 +153,7 @@ public class DataUtilImpl implements IDataUtil {
         } catch (Exception e) {
             e.printStackTrace();
         }
-        return null;
+        return resultList;
     }
 
     @Override
