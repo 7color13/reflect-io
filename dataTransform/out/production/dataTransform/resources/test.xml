@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<Class>
+    <student ID="1008" subjectName="语文">
+        <name>张三</name>
+        <gender>男</gender>
+        <grade>77</grade>
+    </student>
+    <student ID="1011" subjectName="英语">
+        <name>李四</name>
+        <gender>女</gender>
+        <grade>79</grade>
+    </student>
+
+    <student ID="1008" subjectName="语文">
+        <name>张三</name>
+        <gender>男</gender>
+        <grade>99</grade>
+    </student>
+    <student ID="1023" subjectName="化学">
+        <name>王麻子</name>
+        <gender>男</gender>
+        <grade>76</grade>
+    </student>
+    <student ID="1001" subjectName="数学">
+        <name>小李</name>
+        <gender>男</gender>
+        <grade>76</grade>
+    </student>
+    <student ID="1042" subjectName="化学">
+        <name>刘备</name>
+        <gender>男</gender>
+        <grade>44</grade>
+    </student>
+</Class>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/mysql-connector-java-5.1.49.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/dom4j-2.0.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/jexcelapi_2_6_12.zip!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/jexcelapi_2_6_12.zip!/jexcelapi/docs" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/jexcelapi_2_6_12.zip!/jexcelapi/build" />
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/jexcelapi_2_6_12.zip!/jexcelapi/src" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../QQ broswer/jexcelapi_2_6_12/jexcelapi/jxl.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>

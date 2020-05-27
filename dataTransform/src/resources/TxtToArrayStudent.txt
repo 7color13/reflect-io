@@ -1,0 +1,4 @@
+name  age gender grade
+刘锐 18 男 90
+张三  30  女  91
+李四  43  男   99

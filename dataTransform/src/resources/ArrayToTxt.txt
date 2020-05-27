@@ -1,0 +1,4 @@
+name	age	gender	grade	
+sd	23	女	90.0	
+刘锐	18	男	95.0	
+taylor	30	女	100.0	

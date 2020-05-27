@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<students>
+  <student>
+    <name>sd</name>
+    <age>23</age>
+    <gender>女</gender>
+    <grade>90.0</grade>
+  </student>
+  <student>
+    <name>刘锐</name>
+    <age>18</age>
+    <gender>男</gender>
+    <grade>95.0</grade>
+  </student>
+  <student>
+    <name>taylor</name>
+    <age>30</age>
+    <gender>女</gender>
+    <grade>100.0</grade>
+  </student>
+</students>
