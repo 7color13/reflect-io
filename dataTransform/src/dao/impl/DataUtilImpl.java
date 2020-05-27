@@ -138,9 +138,10 @@ public class DataUtilImpl implements IDataUtil {
             Element root = document.getRootElement();
             List<Element> childElements = root.elements();
             Class aClass = Class.forName(className);
-            Object obj = aClass.newInstance();
+            
             for (Element child : childElements) {
                 List<Element> elementList = child.elements();
+                Object obj = aClass.newInstance();
                 for (Element ele : elementList) {
                     String fieldName = ele.getName();
                     Field field = aClass.getDeclaredField(fieldName);
