@@ -41,7 +41,7 @@ public class DataUtilImpl implements IDataUtil {
         return obj;
     }
 
-    public static boolean isBaseDefaultValue(Object object) {   //判断int,float等值是否为默认值（即判断是默认的0还是认为设定的0）
+    public static boolean isBaseDefaultValue(Object object) {   //判断int,float等值是否为默认值（即判断是默认的0还是人为设定的0）
         Class className = object.getClass();
         String strClassName = "" + className;
         if (className.equals(java.lang.Integer.class)) {
